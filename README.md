@@ -100,6 +100,7 @@ customer-churn-revenue-risk-intelligence/
 │   └── business queries.sql
 │
 └── utils/
+    ├── __init__.py
     ├── database.py
     ├── model_utils.py
     └── styling.py
@@ -112,7 +113,7 @@ The raw and processed datasets and local Streamlit configuration are intentional
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/aaryanbhatia50-cyber/customer-churn-revenue-risk-intelligence.git
 cd customer-churn-revenue-risk-intelligence
 ```
 
@@ -122,10 +123,10 @@ cd customer-churn-revenue-risk-intelligence
 python -m venv venv
 ```
 
-On Windows:
+On Windows PowerShell:
 
-```bash
-venv\Scripts\activate
+```powershell
+.\venv\Scripts\Activate.ps1
 ```
 
 ### 3. Install dependencies
