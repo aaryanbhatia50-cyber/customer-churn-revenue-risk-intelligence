@@ -1,0 +1,95 @@
+Feature,Mean Absolute SHAP
+active_days_90d,3.5018881874343637
+total_amount_90d,1.3149147512757906
+avg_amount_90d,0.9076537985193245
+avg_tx_per_active_day,0.20676681508008513
+tx_count_90d,0.1315607456535423
+gender_Female,0.10181335854246729
+gender_Male,0.10074639633879948
+education_level_High School,0.08457829235759805
+acquisition_channel_Organic,0.07963599659762946
+income_bracket_Medium,0.07939589481277409
+education_level_Bachelor,0.07474786898295462
+marital_status_Single,0.0717088516300075
+marital_status_Married,0.06839183213092749
+acquisition_channel_Referral,0.06397167774231347
+income_bracket_High,0.059953919914085406
+income_bracket_Low,0.057255300679008754
+acquisition_channel_Paid Ad,0.04631013507111881
+max_amount_90d,0.04132029365613185
+education_level_Master,0.03906711971905128
+acquisition_channel_Partnership,0.0338907345859724
+tx_type_transfer_count,0.03040590484451368
+marital_status_Divorced,0.028807299454090704
+"location_Bogotá, Cundinamarca",0.028317486691699627
+income_bracket_Very High,0.020129849165248435
+tx_type_deposit_count,0.01958254087791706
+median_amount_90d,0.017268947057642425
+marital_status_Widowed,0.014924761102991556
+"location_Medellín, Antioquia",0.014653404274545137
+tx_type_withdrawal_count,0.014515202003469655
+education_level_PhD,0.012223902565842
+tx_type_payment_count,0.011084673244602031
+tx_type_deposit_share,0.009420641208128182
+days_since_last_tx,0.008324856521389585
+"location_Cali, Valle del Cauca",0.008001685399526292
+"location_Barranquilla, Atlántico",0.006391107916315211
+tx_type_transfer_share,0.00636767367996925
+weekend_tx_ratio,0.005432160346712994
+tx_type_withdrawal_share,0.0052538998205760796
+occupation_Nurse,0.005231323247508233
+household_size,0.004848642892571757
+occupation_Journalist,0.004524168343224449
+std_amount_90d,0.0044741681011758044
+"location_Manizales, Caldas",0.004260625984577901
+days_since_first_tx,0.004131144874248295
+"location_Cartagena, Bolívar",0.004083594606959899
+occupation_Waiter,0.004073890011786375
+min_amount_90d,0.0037151300991906454
+gender_Other,0.003630560820659483
+occupation_Real Estate Agent,0.0032908779194647715
+occupation_Cashier,0.00318273957319648
+"location_Pasto, Nariño",0.0031221037289321635
+tx_type_payment_share,0.002930863742361064
+"location_Cúcuta, Norte de Santander",0.0029044601036002063
+"location_Armenia, Quindío",0.002596561498784357
+occupation_Hairdresser,0.0025112920355145492
+"location_Pereira, Risaralda",0.002270831478364798
+occupation_Mechanic,0.0021884185230323133
+occupation_Engineer,0.0021716674582321497
+age,0.0021315368805835144
+"location_Santa Marta, Magdalena",0.0020349706797298684
+"location_Bucaramanga, Santander",0.0019455287955448767
+occupation_Lawyer,0.0019088765086081314
+occupation_Architect,0.0018982687457538426
+occupation_Cleaner,0.0018113307557619984
+occupation_Veterinarian,0.0017455682230738706
+occupation_Construction Worker,0.0016750892539937644
+occupation_Accountant,0.0015552987367904495
+occupation_Programmer,0.001544677789905471
+occupation_Musician,0.0014738262102713814
+occupation_Plumber,0.0013205701472935047
+occupation_Teacher,0.0013137142272140665
+occupation_Doctor,0.0010249562302597737
+occupation_Firefighter,0.001024634320975503
+occupation_Artist,0.0009792075619431738
+occupation_Chef,0.0009378806828049519
+"location_Sincelejo, Sucre",0.0008411328181549402
+"location_Ibagué, Tolima",0.0008372450980737935
+occupation_Salesperson,0.0007929631678822907
+occupation_Manager,0.0006264083420224247
+occupation_Police Officer,0.0006205479503660966
+"location_Villavicencio, Meta",0.0006184000309250857
+occupation_Bank Teller,0.0005278866157438752
+occupation_Farmer,0.0004945202536183855
+occupation_Electrician,0.0004805893543270576
+occupation_Pharmacist,0.0004685679324565203
+occupation_Driver,0.0004261898530614814
+"location_Montería, Córdoba",0.00042358266935707214
+"location_Neiva, Huila",0.00036949931338556426
+occupation_Security Guard,0.0003542280962235066
+occupation_Psychologist,0.0003136728191801434
+occupation_Dentist,0.0003122747945978526
+occupation_Insurance Agent,0.0002926379449867294
+occupation_Designer,0.00025671039154281277
+"location_Valledupar, Cesar",1.3742452120511858e-05
